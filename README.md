@@ -1,9 +1,9 @@
 Needed To Run:
 
-Visual Studio Code
-Python 3.12
-Pip 
-Selenium + Drivers
+Visual Studio Code,
+Python 3.12,
+Pip,
+Selenium + Drivers,
 Tkinter
 
 -----------------------------------------
